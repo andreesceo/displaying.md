@@ -17,8 +17,8 @@ A continuación, se presenta el marcado HTML y las definiciones de estilo CSS qu
 ```html
 <input type="checkbox" id="members">
 <label for="members">Members</label>
-<br>
 <span class="karina">Karina</span>
+<br>
 <span>Voy a verme forzado a moverme porque un elemento se creará encima mío.</span>
 ```
 
